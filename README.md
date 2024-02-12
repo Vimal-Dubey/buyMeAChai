@@ -1,3 +1,8 @@
+deployment  -  https://buy-me-a-chai-taupe.vercel.app/
+use sepolia testnet for easy convenience
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
